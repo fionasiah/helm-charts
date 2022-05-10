@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   myhelmapp:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2022-05-10T10:30:30.993367069+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 7303aea5e56b0ee209be1f711b69f38f63f9a90f9b070299ce921a967295ac23
+    name: myhelmapp
+    type: application
+    urls:
+    - https://fionasiah.github.io/helm-charts/myhelmapp/myhelmapp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-10T09:17:28.31085755+05:30"
+    created: "2022-05-10T10:30:30.992407869+05:30"
     description: A Helm chart for Kubernetes
     digest: be960ce0d126b9ca81f91828a3f62224b6caf53c42b258111a828915be6f3e04
     name: myhelmapp
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://fionasiah.github.io/helm-charts/myhelmapp/myhelmapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-10T09:17:28.303181801+05:30"
+generated: "2022-05-10T10:30:30.99153685+05:30"
